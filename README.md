@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Depth-First Search
 |  |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Array
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->

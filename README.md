@@ -56,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/1260-shift-2d-grid) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->

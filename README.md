@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3731-find-missing-elements](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->

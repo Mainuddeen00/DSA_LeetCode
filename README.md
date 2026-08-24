@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0506-relative-ranks) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0283-move-zeroes) |
 ## Prefix Sum
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |

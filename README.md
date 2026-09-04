@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3731-find-missing-elements](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3903-smallest-stable-index-i](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
 |  |
 | ------- |

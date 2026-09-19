@@ -11,13 +11,12 @@ class Solution {
 
             if(mp.containsKey(req)){
 
-                return new int[]{mp.get(req),i};
+                return new int[] {mp.get(req),i};
             }
 
             mp.put(nums[i],i);
         }
 
-        return new int[]{-1,-1};
-        
+        return new int[] {0,0};
     }
 }

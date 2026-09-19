@@ -1,37 +1,38 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
 
-        int n = numbers.length;
 
-        //int ans[] = new int[2];
+        Arrays.sort(numbers);
 
+        int[] res = new int[2];
         int i = 0;
-        int j = n-1;
+        int j = numbers.length - 1;
 
         while(i < j){
 
-            int sum = numbers[i]+numbers[j];
+            int sum = numbers[i] + numbers[j];
 
             if(sum == target){
 
-                return new int[]{i+1,j+1};
+                res[0] = i+1;
+                res[1] = j+1;
+                return  res;
+            }
+            if(sum > target){
+
+                j--;
             }else{
 
-                if(sum > target){
-
-                    j--;
-                }else{
+                if(sum < target){
 
                     i++;
                 }
             }
+
+
         }
 
-        return new int[]{0,0};
-
-
-
-
+        return res;
         
     }
 }

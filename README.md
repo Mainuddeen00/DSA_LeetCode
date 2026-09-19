@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0506-relative-ranks) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |

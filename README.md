@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0242-valid-anagram) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0070-climbing-stairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

@@ -69,16 +69,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -203,4 +206,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->

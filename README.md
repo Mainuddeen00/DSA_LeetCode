@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -215,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mainuddeen00/DSA_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
